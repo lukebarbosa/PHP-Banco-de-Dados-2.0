@@ -29,7 +29,7 @@
     ?>
   </div>
   <a href="cadastro.php" class="btn btn-primary">Inicio</a>
-  <a href="editarClient.php" class="btn btn-success">Editar</a>
+  <a href="editarClient.php" class="btn btn-info">Editar</a>
   <a href="deletClient.php" class="btn btn-danger">Deletar</a>
 </body>
 </html>
